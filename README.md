@@ -21,7 +21,7 @@ $ cd ~/catkin_ws/src
 $ git clone https://github.com/hosniadel666/asmarine_pkg.git
 
 ```
-### Now to run the programme using c++
+### Now to run the program using c++
 
 > first build the package source files and run roscore
 
@@ -43,7 +43,7 @@ and in another terminal run
 ```
 $ ./listener
 ```
-### Now to run the programme using python
+### Now to run the program using python
 
 
 ```
