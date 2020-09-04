@@ -68,5 +68,5 @@ $ rosrun rqt_graph rqt_graph
 ```
 
 <p align="center">
-<img src="https://github.com/hosniadel666/asmarine_pkg/blob/master/images/rqt_graph%205.PNG" hspace="0"/>
+<img src="https://github.com/hosniadel666/asmarine_pkg/blob/master/images/rqt_graph%205.PNG" width="800" hspace="0"/>
 </p>
