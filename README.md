@@ -26,7 +26,7 @@ $ git clone https://github.com/hosniadel666/asmarine_ros_pkg.git
 > first build the package source files and run roscore
 
 ```
-$ cd asmarine/build
+$ cd asmarine_pkg/build
 
 $ cmake ..
 
@@ -37,7 +37,7 @@ $ roscore
 
 > second we run the two nodes
 ```
-$ cd ~/catkin_ws/src/asmarine
+$ cd ~/catkin_ws/src/asmarine_pkg
 
 $ ./build/talker
 ```
@@ -55,7 +55,7 @@ $ rosrun asmarine talker.py
 ```
 and in another terminal run
 ```
-$ rosrun asmarine listener.py
+$ rosrun asmarine_pkg listener.py
 ```
 Result 
 ------------------
