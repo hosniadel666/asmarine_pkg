@@ -1,4 +1,4 @@
-# asmarine_ros_pkg
+# asmarine_pkg
 This repository contains code necessary to make a topic message communication between two nodes (publisher and subscriber node) using c++ and python, For every 5 counts every 10 sec in the publisher node, It should publish a message to the subscriber node and change its state.
 
 
@@ -18,7 +18,7 @@ Getting Started
 ```
 $ cd ~/catkin_ws/src
 
-$ git clone https://github.com/hosniadel666/asmarine_ros_pkg.git
+$ git clone https://github.com/hosniadel666/asmarine_pkg.git
 
 ```
 ### Now to run the programme using c++
@@ -49,7 +49,7 @@ $ ./listener
 ```
 $ roscore
 
-$ rosrun asmarine talker.py
+$ rosrun asmarine_pkg talker.py
 ```
 and in another terminal run
 ```
