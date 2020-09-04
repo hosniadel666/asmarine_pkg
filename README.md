@@ -59,7 +59,7 @@ Result
 ------------------
 + the execution of the program should be like that :
 <p align="center">
-<img src="https://github.com/hosniadel666/asmarine_ros_pkg/blob/master/images/ezgif.com-crop.gif" hspace="0"/>
+<img src="https://github.com/hosniadel666/asmarine_pkg/blob/master/images/test_2.gif" hspace="0"/>
 </p>
 
 + You can visualize the relation between nodes By using the rqt_graph ROS plugin to visualize the ROS computation graph
@@ -68,5 +68,5 @@ $ rosrun rqt_graph rqt_graph
 ```
 
 <p align="center">
-<img src="https://github.com/hosniadel666/asmarine_ros_pkg/blob/master/images/rqt_graph%205.PNG" hspace="0"/>
+<img src="https://github.com/hosniadel666/asmarine_pkg/blob/master/images/rqt_graph%205.PNG" hspace="0"/>
 </p>
