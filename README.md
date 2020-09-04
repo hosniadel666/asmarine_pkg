@@ -37,13 +37,11 @@ $ roscore
 
 > second we run the two nodes
 ```
-$ cd ~/catkin_ws/src/asmarine_pkg
-
-$ ./build/talker
+$ ./talker
 ```
 and in another terminal run
 ```
-$ ./build/listener
+$ ./listener
 ```
 ### Now to run the programme using python
 
