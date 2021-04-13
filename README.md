@@ -1,5 +1,5 @@
 # asmarine_pkg
-This repository contains code necessary to make a topic message communication between two nodes (publisher and subscriber node) using c++ and python, For every 5 counts every 10 sec in the publisher node, It should publish a message to the subscriber node and change its state.
+This repository contains code necessary to make a ROS topic message communication between two nodes (publisher and subscriber node) using c++ and python, For every 5 counts every 10 sec in the publisher node, It should publish a message to the subscriber node and change its state.
 
 
 
